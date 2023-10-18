@@ -1,0 +1,1 @@
+{"learning_rate": 0.05, "max_depth": 9, "max_features": 4, "min_samples_leaf": 50, "min_samples_split": 600,"random_state":69, "n_estimators": 100, "subsample": 0.8}

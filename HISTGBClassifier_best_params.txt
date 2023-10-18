@@ -1,0 +1,1 @@
+{"max_iter": 180, "random_state": 69, "learning_rate": 0.3333333333333333, "max_depth": 8, "max_leaf_nodes": 20, "min_samples_leaf": 20}

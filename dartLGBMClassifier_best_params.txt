@@ -1,0 +1,1 @@
+{"objective": "binary", "metric": "auc", "boosting": "dart", "n_estimators": 500, "random_state": 69, "learning_rate": 0.1, "max_depth": 9, "feature_fraction": 0.7, "num_leaves": 12, "subsample": 1}
